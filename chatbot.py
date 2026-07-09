@@ -11,8 +11,28 @@ while True:
         print("Bot: I can answer simple questions and chat with you.")
     elif message == "What is python?":
         print("Bot: Python is a popular programming language.")
+    elif message == "who are you":
+        print("Bot: I am a simple chatbot built using Python.")
+    elif message == "are you a robot":
+        print("Bot: Yes, I'm a virtual chatbot.")
+    elif message == "do you like music":
+        print("Bot: Yes! Music is enjoyable.")
+    elif message == "can you help me":
+        print("Bot: Of course! I'll do my best.")
+    elif message == "what is ai":
+        print("Bot: AI stands for Artificial Intelligence.")
+    elif message == "what is machine learning":
+        print("Bot: Machine learning is a branch of AI that enables computers to learn from data.")
+    elif message == "i love python":
+        print("Bot: That's awesome! Python is a great language.")
+    elif message == "can you sing":
+        print("Bot: Sorry, I can only chat.")
+    elif message == "can you dance":
+        print("Bot: I wish I could!")
     elif message == "Thank you":
         print("Bot: You're welcome")
+    elif message == "see you":
+        print("Bot: See you soon! Take care.")
         break
     else:
         print("Bot: I don't understand.")
