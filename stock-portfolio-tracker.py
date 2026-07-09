@@ -1,9 +1,9 @@
 stocks = {
-    "TCS": 3500,
-    "INFY": 1600,
-    "RELIANCE": 2900,
-    "HDFCBANK": 1700,
-    "ITC": 450
+    "A": 3500,
+    "B": 1600,
+    "C": 2900,
+    "D": 1700,
+    "E": 450
 }
 
 stock_name = input("Enter stock name: ").upper()
