@@ -1,5 +1,4 @@
 import random
-
 # List of words
 words = ["python", "programming", "computer", "hangman", "developer"]
 
