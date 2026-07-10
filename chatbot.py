@@ -27,8 +27,9 @@ while True:
         print("Bot: I wish I could!")
     elif message == "see you":
         print("Bot: See you soon! Take care.")
-    elif message == "Thank you":
+    elif message == "thank you":
         print("Bot: You're welcome")
         break
+
     else:
         print("Bot: I don't understand.")
