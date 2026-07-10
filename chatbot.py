@@ -7,9 +7,9 @@ while True:
         print("Bot: I'm fine, thanks!")
     elif message == "bye":
         print("Bot: Goodbye!")
-    elif message == "What can you do?":
+    elif message == "what can you do?":
         print("Bot: I can answer simple questions and chat with you.")
-    elif message == "What is python?":
+    elif message == "what is python?":
         print("Bot: Python is a popular programming language.")
     elif message == "can you help me":
         print("Bot: Of course! I'll do my best.")

@@ -19,7 +19,6 @@ while wrong_guesses < max_wrong_guesses:
             display_word += letter + " "
         else:
             display_word += "_ "
-
     print("\nWord:", display_word)
 
     # Check if the word is completely guessed
