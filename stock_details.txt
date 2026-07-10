@@ -1,4 +1,0 @@
-Stock Name: TCS
-Price: 3500
-Quantity: 2
-Total Cost: 7000
