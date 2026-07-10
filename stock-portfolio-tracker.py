@@ -5,7 +5,6 @@ stocks = {
     "D": 1700,
     "E": 450
 }
-
 stock_name = input("Enter stock name: ").upper()
 
 if stock_name in stocks:
